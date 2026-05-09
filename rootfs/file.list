@@ -1,0 +1,6 @@
+./init
+bin/
+sbin/
+etc/
+usr/
+lib/
