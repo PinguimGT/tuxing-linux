@@ -43,7 +43,7 @@ Here I'll show how to compile the system and provide the source code:
 *Source code that I had to compile/use:
 
 Kernel 6.19-5:https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.19.5.tar.xz
-(the kernel used in TechTux Linux)
+(the kernel used in Tuxing Linux)
 
 Busybox:https://www.busybox.net/downloads/busybox-1.36.1.tar.bz2
 (provide the binaries in the rootfs)
