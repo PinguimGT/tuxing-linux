@@ -1,6 +1,6 @@
-#TechTux Linux
+#Tuxing Linux
 
-This is the TechTux Linux distribution's manual
+This is the Tuxing Linux distribution's manual
 *Features:
 
 -Lightweight
@@ -15,14 +15,14 @@ This is the TechTux Linux distribution's manual
 
 *FAQ:
 
-*What's TechTux Linux?: TechTux Linux is a Linux distro that aims to support legacy hardware 
+*What's Tuxing Linux?: Tuxing Linux is a Linux distro that aims to support legacy hardware 
 and still being a leading-edge distro, providing a good user-experience and supporting as 
 old computers as new and powerful computers;
 
 *How light is it?: I did a lot of tests in QEMU and in this version without a graphical Interface, 
 it consumes 20-25 mb ram(with 70mb allocated);
 
-*What LIBC it uses?: The TechTux Linux distro uses the musl libc, 
+*What LIBC it uses?: The Tuxing Linux distro uses the musl libc, 
 which provides good performance at low-end devices;
 
 *How did you mount the rootfs: I constructed the rootfs with busybox binaries compiled static, it's a
@@ -35,6 +35,7 @@ i will put a graphical lightweight interface(like some WM or DE) with a X server
 (like school, this distro, music and other things). I'm making this distro because I really like
 linux and the idea of making something open-source that anyone could use.
 
+*Have you changed the name of the distro?: Yes i had because, the preview name was being used in a Youtube Channel.
 --------------------------------------------------------------------------------------------------
 
 Here I'll show how to compile the system and provide the source code:
@@ -65,7 +66,7 @@ Arch Linux:
 sudo pacman -S base-devel elfutils ncurses cpio gzip
 
 
-*TECHTUX LINUX .config: I provided that in the project page in github in releases.
+*TUXING LINUX .config: I provided that in the project page in github in releases.
 
 *FOR TESTING!*
 
@@ -103,7 +104,7 @@ And run this command in terminal:
 
 qemu-system-x86_64  -kernel /home/linux/distro-downloads/linux-6.19.5/arch/x86_64/boot/bzImage  -initrd ~/distro-downloads/initramfs.cpio.gz  -append "console=tty0  init=/init" 
 
-Congratulations! Now you are testing the TechTux Linux distro
+Congratulations! Now you are testing the Tuxing Linux distro
 
 (Optional):
 
