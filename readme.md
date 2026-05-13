@@ -95,4 +95,10 @@ sudo mkdir bin usr var etc sbin proc dev lib sys
 
 After this you already have the same structure of the rootfs that i have made. Now if you want you can extract my initramfs.cpio.gz and copy the binaries or you can download and compile by your own and change what you want. Be free to do what you want to do, this project is aiming to help.
 
-If someone can contribute to this project would help a lot I would really appreciate. Sorry for being so tiny this is just the 0.1 version and i'll improve up and add graphical things. -Ricardo Otávio Mariano da Silva [07/05/2026]
+If someone can contribute to this project would help a lot
+
+Linux I would really appreciate. Sorry for being so tiny this is just the 0.1 version and i'll improve up and add graphical things.
+
+Linux® is the registered trademark by Linus Torvalds This projects uses software under the GNU General Public License v2(GPLv2) musl libc is licensed under the MIT License
+
+-Ricardo Otávio Mariano da Silva [07/05/2026]
