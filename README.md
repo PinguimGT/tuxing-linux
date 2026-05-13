@@ -135,6 +135,7 @@ Sorry for being so tiny this is just the 0.1 version and i'll improve up and add
 
 Linux® is the registered trademark by Linus Torvalds
 This projects uses software under the GNU General Public License v2(GPLv2)
-msul libc is licensed under the MIT License
+musl libc is licensed under the MIT License
+
 -Ricardo Otávio Mariano da Silva [07/05/2026]
 
