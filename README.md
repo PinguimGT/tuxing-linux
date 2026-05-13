@@ -127,7 +127,14 @@ and change what you want. Be free to do what you want to do, this project is aim
 
 
 If someone can contribute to this project would help a lot
+
+
+Linux
 I would really appreciate.
 Sorry for being so tiny this is just the 0.1 version and i'll improve up and add graphical things.
+
+Linux® is the registered trademark by Linus Torvalds
+This projects uses software under the GNU General Public License v2(GPLv2)
+msul libc is licensed under the MIT License
 -Ricardo Otávio Mariano da Silva [07/05/2026]
 
